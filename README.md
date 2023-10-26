@@ -3,7 +3,9 @@
 ## Содержание
 
 [Логические операторы](theory/01-logic-operators.md)
+
 [Условные конструкции](theory/02-coditions.md)
+
 [Примеры условий](theory/03-coditions-examples.md)
 
 
